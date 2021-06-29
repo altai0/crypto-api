@@ -1,6 +1,6 @@
 # cryptocurrency-api
 
-https://min-api.cryptocompare.com/
+# https://min-api.cryptocompare.com/
 https://tokenmarketcaps.com
 https://coinlib.io/
 https://coinmarketcal.com/en/api
